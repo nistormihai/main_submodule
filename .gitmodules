@@ -1,0 +1,3 @@
+[submodule "themes/child_submodule"]
+	path = themes/child_submodule
+	url = git@github.com:nistormihai/child_submodule.git
